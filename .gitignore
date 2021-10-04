@@ -1,0 +1,5 @@
+plots
+data/legacy
+code/legacy
+*.rds
+*Rhistory
