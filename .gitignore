@@ -3,3 +3,5 @@ data/legacy
 code/legacy
 *.rds
 *Rhistory
+*.pdf
+*.html

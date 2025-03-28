@@ -1,0 +1,1 @@
+/media/varun/vaT5/proiektuak/edonoiz/0_scripts/txostendu.sh

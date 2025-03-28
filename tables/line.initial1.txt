@@ -1,0 +1,12 @@
+
+\centering
+\begin{tabular}{rlll}
+  \hline
+ & prom- & prom= & prom+ \\ 
+  \hline
+stress- & -0.28 & -1.65 & -0.33 \\ 
+  stress= & -1.43 & -1.12 & -0.40 \\ 
+  stress+ & -1.70 & -0.13 & 0.72 \\ 
+   \hline
+\end{tabular}
+
